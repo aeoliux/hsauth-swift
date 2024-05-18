@@ -1,0 +1,33 @@
+{
+  "originHash" : "2124f00d1ea58fedb7b19e36635a365c54bb68929dc37f3e7c413e62b07ae7b1",
+  "pins" : [
+    {
+      "identity" : "phc-winner-argon2",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/P-H-C/phc-winner-argon2.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "f57e61e19229e23c4445b85494dbf7c07de721cb"
+      }
+    },
+    {
+      "identity" : "swift-crypto",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-crypto.git",
+      "state" : {
+        "revision" : "60f13f60c4d093691934dc6cfdf5f508ada1f894",
+        "version" : "2.6.0"
+      }
+    },
+    {
+      "identity" : "swift-libcrypto",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/M3DZIK/swift-libcrypto.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "ff8ac725fde34a9aaae379d87b7ac2f67c04f5dc"
+      }
+    }
+  ],
+  "version" : 3
+}
